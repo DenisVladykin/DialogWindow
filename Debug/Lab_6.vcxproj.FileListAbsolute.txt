@@ -1,0 +1,5 @@
+C:\Users\79612\source\repos\Lab_6\Debug\Lab_6.vcxproj.AssemblyReference.cache
+C:\Users\79612\source\repos\Lab_6\Debug\Lab6.MyDialog2.resources
+C:\Users\79612\source\repos\Lab_6\Debug\Lab6.MyForm.resources
+C:\Users\79612\source\repos\Lab_6\Debug\Lab_6.vcxproj.GenerateResource.cache
+C:\Users\79612\source\repos\Lab_6\Debug\Lab_6.exe
